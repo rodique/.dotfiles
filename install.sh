@@ -1,3 +1,3 @@
 sudo apt-get install --reinstall bash-completion
-cp /etc/skel/.bashrc ~/
+ln -sf ~/.dotfiles/.bashrc ~/.bashrc
 sudo apt-get -y install screen
