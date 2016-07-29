@@ -1,3 +1,3 @@
 # dotfiles
 
-`apt-get install git && git@github.com:rodique/dotfiles.git .dotfiles`
+`apt-get install git && git clone https://github.com/rodique/.dotfiles.git`
