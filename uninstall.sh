@@ -1,3 +1,4 @@
+#!/bin/bash
 sudo apt-get -y purge screen git
 sudo apt-get -y autoremove
 unlink ~/.bashrc
